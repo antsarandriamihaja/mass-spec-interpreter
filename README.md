@@ -1,2 +1,2 @@
 # mass-spec-interpreter
-A python program that determines sequences of protein fragments.
+A program written in Python that determines sequences of protein fragments.
